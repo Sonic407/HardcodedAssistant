@@ -1,0 +1,4 @@
+This is the first version (proof of concept) of a hardcoded VBS personal assistant
+This is a base point to see the structure of how an artificial intelligence bot would operate
+This will be redone in python (still hardcoded)
+Then then will be made using various AI libraries in python such as scikit
